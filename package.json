@@ -1,0 +1,14 @@
+{
+  "name": "git-rep",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Sargor/git-rep.git",
+  "author": "Sargor <sargor666@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  },
+  "scripts": {
+    "start": "parcel watch index.html"
+  }
+}
